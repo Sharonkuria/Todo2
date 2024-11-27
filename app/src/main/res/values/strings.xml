@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="last_edited">Last Edited: %1$s</string>
+<string name="created_on">Created On: %1$s</string>
+    <string name="note">Note</string>
+    <string name="task">Task</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
